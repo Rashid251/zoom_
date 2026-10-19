@@ -5,7 +5,7 @@ import Navbar from "@/components/Navbar";
 import Sidebar from "@/components/Sidebar";
 
 export const metadata: Metadata = {
-  title: "ZOOM CLONE (UTSAV PATEL)",
+  title: "ZOOM CLONE (RASHID)",
   description: "A workspace for your team, powered by Stream Chat and Clerk.",
 };
 

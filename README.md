@@ -1,4 +1,4 @@
-# Zoom Clone 🚀 - A Project by Utsav Patel
+# Zoom Clone 🚀 - A Project by Rashid
 <img src="public/Screenshot 2024-06-24 183450.png" style="border-radius:20px;">
 
 A feature-rich Zoom clone built with modern technologies such as TypeScript, Next.js, Tailwind CSS, Shadcn, GetStream, Clerk, and Node.js.
@@ -29,9 +29,9 @@ A feature-rich Zoom clone built with modern technologies such as TypeScript, Nex
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/utsavpatel562/zoom-clone.git
-   cd zoom-clone
-   
+   git clone https://github.com/Rashid251/zoom_.git
+   cd zoom_
+   ```
 
 ### Install dependencies 📦
 ```bash

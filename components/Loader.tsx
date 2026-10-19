@@ -1,4 +1,4 @@
-// Code by Utsav Patel
+// Code by Rashid
 import Image from "next/image";
 import React from "react";
 const Loader = () => {

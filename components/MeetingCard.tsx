@@ -1,5 +1,5 @@
 "use client";
-// Code by Utsav Patel
+// Code by Rashid
 import Image from "next/image";
 
 import { cn } from "@/lib/utils";
